@@ -1,15 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NGUI/Scripts/Interaction/UISlider.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NGUI/Examples/Scripts/Other/UISliderColors.cs">
     <Files>
-      <File FileName="Assets/NGUI/Scripts/UI/UILabel.cs" Line="1627" Column="13" />
-      <File FileName="Assets/NGUI/Scripts/Internal/UIBasicSprite.cs" Line="1" Column="1" />
-      <File FileName="Assets/NGUI/Scripts/Internal/UIWidget.cs" Line="1" Column="1" />
-      <File FileName="Assets/NGUI/Scripts/Internal/UIRect.cs" Line="1" Column="1" />
-      <File FileName="Assets/NGUI/Scripts/Editor/BMFontReader.cs" Line="121" Column="6" />
-      <File FileName="Assets/NGUI/Scripts/Editor/UIFontMaker.cs" Line="1" Column="1" />
-      <File FileName="Assets/NGUI/Scripts/Interaction/UIProgressBar.cs" Line="15" Column="1" />
-      <File FileName="Assets/NGUI/Scripts/Interaction/UISlider.cs" Line="26" Column="2" />
+      <File FileName="Assets/NGUI/Scripts/UI/UILabel.cs" Line="80" Column="17" />
+      <File FileName="Assets/NGUI/Scripts/Internal/UIWidget.cs" Line="43" Column="2" />
+      <File FileName="Assets/NGUI/Scripts/Internal/UIRect.cs" Line="619" Column="2" />
+      <File FileName="Assets/NGUI/Scripts/UI/UIPanel.cs" Line="103" Column="1" />
+      <File FileName="Assets/NGUI/Scripts/Internal/UIDrawCall.cs" Line="493" Column="30" />
+      <File FileName="Assets/NGUI/Examples/Scripts/Other/UISliderColors.cs" Line="16" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
